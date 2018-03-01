@@ -1,8 +1,7 @@
 # Classification-Algorithms-Python-
 
-• To implement three classification algorithms namely K nearest neighbours, naive bayes and decision   trees.
+• Performed classification on biomedical datasets using K-nearest neighbours, Naive Bayes and Decision Trees.
 
-• To implement Random forests and boosting on the implementation of decision trees.
+• Also implemented random forests and boosting (using Adaboost) to improve the accuracy of the decision tree model.
 
-• To use 10-fold cross validation to evaluate the performance of the classification algorithms in terms of accuracy,
-  precision, recall and F1-measure.
+• Adopted 10-fold cross validation to evaluate the performance of all the methods in terms of accuracy, precision, recall and F-1 measure.
